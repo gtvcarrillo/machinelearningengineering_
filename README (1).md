@@ -166,10 +166,10 @@ python marathon_end2end.py   --raw_path "C:/Users/SEU_USUARIO/Documents/raw-data
 
 ---
 ## 🔢 Métricas do Modelo (extraídas do output)
-| Split      | Precision | Recall | F1  | AUC  | Threshold |
+| Split      | Precision | Recall | F1  | Threshold |
 |------------|-----------|--------|-----|------|-----------|
-| Validação  | 0.688 | 1.000 | 0.815 | n/a | 0.18 |
-| Teste      | 0.769 | 0.833 | 0.800 | n/a | 0.18 |
+| Validação  | 0.688 | 1.000 | 0.815 | 0.18 |
+| Teste      | 0.769 | 0.833 | 0.800  | 0.18 |
 
 **Interpretação rápida**  
 - **Precision**: dos previstos como aptos, quantos realmente são.  
@@ -192,9 +192,17 @@ python marathon_end2end.py   --raw_path "C:/Users/SEU_USUARIO/Documents/raw-data
 
 ![Matriz de Confusão – Teste](sandbox:/output_extracted/output/cm_test.png)
 
+<img width="600" height="600" alt="cm_test" src="https://github.com/user-attachments/assets/12921bf8-114f-41f8-af5a-3d8cc21e431a" />
+
+
 ![AUC ao longo do tempo – Validação](sandbox:/output_extracted/output/auc_over_time_val.png)
 
+<img width="1050" height="525" alt="auc_over_time_val" src="https://github.com/user-attachments/assets/8b4cbddb-6358-4f92-9925-629ee78e82ba" />
+
+
 ![AUC ao longo do tempo – Teste](sandbox:/output_extracted/output/auc_over_time_test.png)
+
+<img width="1050" height="525" alt="auc_over_time_test" src="https://github.com/user-attachments/assets/b5d826e1-091d-4590-9542-00c712827ac9" />
 
 ---
 
