@@ -166,10 +166,10 @@ python marathon_end2end.py   --raw_path "C:/Users/SEU_USUARIO/Documents/raw-data
 
 ---
 ## 🔢 Métricas do Modelo (extraídas do output)
-| Split      | Precision | Recall | F1  | Threshold |
+| Split      | Precision | Recall | F1  | AUC  | Threshold |
 |------------|-----------|--------|-----|------|-----------|
-| Validação  | 0.688 | 1.000 | 0.815 | 0.18 |
-| Teste      | 0.769 | 0.833 | 0.800  | 0.18 |
+| Validação  | 0.688 | 1.000 | 0.815 | n/a | 0.18 |
+| Teste      | 0.769 | 0.833 | 0.800 | n/a | 0.18 |
 
 **Interpretação rápida**  
 - **Precision**: dos previstos como aptos, quantos realmente são.  
