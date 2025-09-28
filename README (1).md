@@ -180,27 +180,27 @@ python marathon_end2end.py   --raw_path "C:/Users/SEU_USUARIO/Documents/raw-data
 ---
 
 ## 📊 Gráficos principais
-![Importância de Variáveis](sandbox:/output_extracted/output/feature_importance.png)
+**Importância de Variáveis**
 
 <img width="1200" height="600" alt="feature_importance" src="https://github.com/user-attachments/assets/226f38e9-5976-41dd-aa69-5f11ba0f6f2c" />
 
 
-![Matriz de Confusão – Validação](sandbox:/output_extracted/output/cm_validation.png)
+**Matriz de Confusão – Validação**
 
 <img width="600" height="600" alt="cm_validation" src="https://github.com/user-attachments/assets/ab779c4b-35b7-4d48-a83e-37d461dbdd20" />
 
 
-![Matriz de Confusão – Teste](sandbox:/output_extracted/output/cm_test.png)
+**Matriz de Confusão – Teste**
 
 <img width="600" height="600" alt="cm_test" src="https://github.com/user-attachments/assets/12921bf8-114f-41f8-af5a-3d8cc21e431a" />
 
 
-![AUC ao longo do tempo – Validação](sandbox:/output_extracted/output/auc_over_time_val.png)
+**AUC ao longo do tempo - Validação**
 
 <img width="1050" height="525" alt="auc_over_time_val" src="https://github.com/user-attachments/assets/8b4cbddb-6358-4f92-9925-629ee78e82ba" />
 
 
-![AUC ao longo do tempo – Teste](sandbox:/output_extracted/output/auc_over_time_test.png)
+**AUC ao longo do tempo - Teste**
 
 <img width="1050" height="525" alt="auc_over_time_test" src="https://github.com/user-attachments/assets/b5d826e1-091d-4590-9542-00c712827ac9" />
 
