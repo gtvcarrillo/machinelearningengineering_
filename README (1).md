@@ -302,24 +302,11 @@ else:
 > • **49,1%** (57/116) já atingem o corte.  
 > • Entre os que **não** atingem (59), a maioria (**47 atletas; 40,5% do total**) requer **21–24 semanas**.  
 > • Esforço **Moderado + Alto** somam **55 atletas (47,4%)**; **Baixo** é minoria (3,4%).
-
----
-
-### (Opcional) Gráficos Mermaid
-
-**Apto (Sim/Não)**
-```mermaid
-pie showData
-  title Apto ao corte
-  "Sim (57)" : 57
-  "Não (59)" : 59
-
-pie showData
-  title Esforço (FC)
-  "Já atinge (57)" : 57
-  "Moderado (35)" : 35
-  "Alto (20)" : 20
-  "Baixo (4)" : 4
+> 
+> **Insights**  
+> Metade já está pronta; a outra metade precisa de um ciclo robusto (21–24 semanas) — bom gancho para priorização de planos.
+> A distribuição de esforço Moderado/Alto (47,4%) sustenta a narrativa de que o alvo é ambicioso para grande parte do grupo, exigindo evolução de velocidade e/ou base aeróbica.
+> O baixo contingente na faixa 1–12 semanas sugere que ganhos “rápidos” serão raros; focar em consistência e progressão de longões.
 
 
 ## ⚠️ Limitações & próximos passos
