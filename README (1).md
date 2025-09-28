@@ -270,6 +270,38 @@ else:
 ```
 
 ---
+📈 Distribuição dos resultados (n = 116 atletas)
+Apto ao corte por gênero (3h ♂ / 3h45 ♀)
+Classe	Qtde	%
+Sim	57	49,1%
+Não	59	50,9%
+Faixa de esforço (com FC)
+Esforço	Qtde	%
+Já atinge	57	49,1%
+Moderado	35	30,2%
+Alto	20	17,2%
+Baixo	4	3,4%
+Semanas estimadas até o alvo
+Faixa (semanas)	Qtde	%
+0 (já atinge)	57	49,1%
+1–4	3	2,6%
+5–8	2	1,7%
+9–12	3	2,6%
+13–16	3	2,6%
+17–20	1	0,9%
+21–24	47	40,5%
+Sem estimativa	0	0,0%
+
+Leituras rápidas
+
+49,1% (57/116) já atingem o corte — metade do grupo.
+
+Dos 50,9% que não atingem, a maioria (47 atletas; 40,5% do total) requer 21–24 semanas (ciclo completo) para chegar ao alvo.
+
+Esforço Moderado/Alto cobre 40, +? → exatamente 35 + 20 = 55 atletas (47,4%).
+
+Esforço Baixo é minoria (3,4%), indicando que, para quase todos que não atingem, o alvo exige ajustes relevantes de velocidade/base ou FC.
+
 
 ## ⚠️ Limitações & próximos passos
 
