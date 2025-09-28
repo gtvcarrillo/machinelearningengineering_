@@ -304,9 +304,9 @@ else:
 > • Esforço **Moderado + Alto** somam **55 atletas (47,4%)**; **Baixo** é minoria (3,4%).
 > 
 > **Insights**  
-> Metade já está pronta; a outra metade precisa de um ciclo robusto (21–24 semanas) — bom gancho para priorização de planos.
-> A distribuição de esforço Moderado/Alto (47,4%) sustenta a narrativa de que o alvo é ambicioso para grande parte do grupo, exigindo evolução de velocidade e/ou base aeróbica.
-> O baixo contingente na faixa 1–12 semanas sugere que ganhos “rápidos” serão raros; focar em consistência e progressão de longões.
+> - Metade já está pronta; a outra metade precisa de um ciclo robusto (21–24 semanas) — bom gancho para priorização de planos.
+> - A distribuição de esforço Moderado/Alto (47,4%) sustenta a narrativa de que o alvo é ambicioso para grande parte do grupo, exigindo evolução de velocidade e/ou base aeróbica.
+> - O baixo contingente na faixa 1–12 semanas sugere que ganhos “rápidos” serão raros; focar em consistência e progressão de longões.
 
 
 ## ⚠️ Limitações & próximos passos
