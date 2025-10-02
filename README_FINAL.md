@@ -51,17 +51,27 @@ t_2 = t_1 \times \left(\frac{d_2}{d_1}\right)^r
   - `1` = atleta apto (predição ≤ tempo referência)  
   - `0` = atleta não apto
 
-- **Classificação pelo Riegel**:
-  - Número de atletas aptos segundo a fórmula: **XX** (substituir pelo valor calculado)
-  - Número de atletas não aptos: **YY** (substituir pelo valor calculado)
+- **Classificação pelo Riegel (toda a base)**:
+  - Número de atletas aptos segundo a fórmula: **80**  
+  - Número de atletas não aptos: **36**
+
+- **Classificação pelos modelos treinados (conjunto de teste)**:
+  - RandomForest:
+    - Aptos: **17**  
+    - Não aptos: **7**
+  - SVM:
+    - Aptos: **16**  
+    - Não aptos: **8**
+
+> Observação: O total de atletas nos modelos é menor que na base completa porque os números refletem apenas o **conjunto de teste** (20% da base) utilizado para avaliação.
 
 ---
 
 ## 3. Estrutura do Pipeline
-1. **Leitura dos Dados** – carregamento do CSV e padronização de nomes de colunas.  
+1. **Leitura dos Dados** – CSV de corridas individuais.  
 2. **Processamento dos Dados** – cálculo de pace, velocidade e agregação por atleta.  
 3. **Separação de Treino e Teste** – split estratificado de 80/20.  
-4. **Seleção de Variáveis** – `SelectKBest` com `mutual_info_classif`, selecionando até 12 features.  
+4. **Seleção de Variáveis** – `SelectKBest` para selecionar até 12 features.  
 5. **Treinamento de Modelos** – RandomForest e SVM.  
 6. **Importância de Variáveis** – análise para RandomForest.  
 7. **Avaliação de Resultados** – Precision, Recall, F1-Score, AUC, Matrizes de Confusão e gráficos.
